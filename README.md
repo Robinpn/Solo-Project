@@ -1,20 +1,14 @@
-INSERT MANDATORY GIF
+<img src="https://media.giphy.com/media/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47wzc99sp8lcqn1jkq1k1n69y8enk1u8bgjv771eet&rid=giphy.gif" width="100%">
 
-# Project Title
+# Solo Project
 
-Text about the project. This would also be a great place to link the game on Netlify.
+A project aimed at learning things I currently find difficult.
+
+Aim is to use as much js as possible instead of hardcoding values in HTML & CSS
 
 # Installation
 
-Add the installation instructions.
-
-# Code Review
-
-1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
-1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
-1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
-1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
-1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
+Clone and open in IDE of choice
 
 # Testers
 
