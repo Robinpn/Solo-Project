@@ -3,6 +3,54 @@ header {
   height: 100vh;
 }
 
+.logo {
+}
+
 .hero {
   height: 100%;
+}
+
+nav {
+  background-color: var(--nav-bg);
+  display: flex;
+}
+
+.navbar-links {
+  display: flex;
+}
+
+.navbar-links ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  list-style: none;
+}
+
+.navbar-links li a {
+  text-decoration: none;
+  padding: 1rem;
+  color: white;
+  display: block;
+  position: relative;
+}
+
+.navbar-links li a::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 10px;
+  left: 0;
+  background-color: #0087ca;
+  transform-origin: center;
+  transition: transform 0.3s ease-out;
+}
+
+.navbar-links li a:hover::after {
+  transform: scaleX(1);
+  transform-origin: center;
 }

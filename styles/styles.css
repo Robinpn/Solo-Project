@@ -2,16 +2,16 @@
   box-sizing: border-box;
 }
 
+:root {
+  --nav-bg: hsla(201, 100%, 6%, 0.6);
+  --font-white: #fff;
+  --font-black: #000;
+}
+
 body {
   padding: 0;
   margin: 0;
   min-height: 100vh;
-}
-
-header {
-  width: 100%;
-  height: auto;
-  background-color: aqua;
 }
 
 img,
