@@ -6,6 +6,8 @@ A project aimed at learning things I currently find difficult.
 
 Aim is to use as much js as possible instead of hardcoding values in HTML & CSS
 
+Living the vanlife: https://www.livingthevanlife.com/ (inspiration for the website)
+
 # Installation
 
 Clone and open in IDE of choice
