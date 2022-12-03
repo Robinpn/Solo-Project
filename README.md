@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47wzc99sp8lcqn1jkq1k1n69y8enk1u8bgjv771eet&rid=giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="100%">
 
 # Solo Project
 
